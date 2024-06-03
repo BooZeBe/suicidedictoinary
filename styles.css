@@ -156,4 +156,7 @@ p {
     p {
         font-size: 23px;
     }
+    #arrow {
+        margin-bottom: 50px;
+    }
 }
